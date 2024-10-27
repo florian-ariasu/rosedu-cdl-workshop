@@ -13,6 +13,7 @@
 | ARO | M series | Gasoline | 1959 |
 | Honda | Gasoline | Civic | 2018 |
 | Audi | A6 | Diesel | 2020 |
+| Tesla | X | Electric | 2020 |
 
 <br>
 
