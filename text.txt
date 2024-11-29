@@ -1,0 +1,1 @@
+This is a simple linof text to see the different types of merging 2 branches
