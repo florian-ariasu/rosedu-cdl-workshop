@@ -1,3 +1,0 @@
-$(eval $(call addlib,appchello))
-
-APPCHELLO_SRCS-y += $(APPCHELLO_BASE)/hello.c
