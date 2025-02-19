@@ -11,3 +11,6 @@ This repository consolidates all the technical modules from the **CDL course/wor
 
 > [!TIP]
 > The **Markdown module** includes a step-by-step guide on creating an **impressive README** for your GitHub profile.
+
+### 📜 Licence
+This project is licensed under the MIT Licence. See the [LICENCE](./LICENSE) file for further details.
