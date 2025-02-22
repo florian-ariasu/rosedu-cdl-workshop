@@ -1,4 +1,4 @@
-## 🚀 Repository Overview: Technical Modules from the CDL Course/Workshop
+## Repository Overview: Technical Modules from the CDL Course/Workshop
 
 This repository consolidates all the technical modules from the **CDL course/workshop**, offering hands-on practice for key topics.
 
